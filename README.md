@@ -96,4 +96,4 @@ This dashboard helps organizations understand customer engagement patterns, camp
 
 📷 Dashboard Preview
 
-Dashboard
+[Dashboard](dashboard3.png)
